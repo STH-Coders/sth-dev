@@ -1,0 +1,14 @@
+{
+  "name": "safethis-development",
+  "version": "0.1.0",
+  "description": "under active development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "killshot13 <dmreh@outlook.com> (Michael Rehnert)",
+  "license": "MIT",
+  "devDependencies": {
+    "apache-server-configs": "4.1.0"
+  }
+}
