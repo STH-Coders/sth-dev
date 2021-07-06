@@ -1,48 +1,32 @@
-# sth-prod
+# sth-dev
 
 ## Table of Contents
 
-- [newsletter](#newsletter)
-- [wp-admin](#wpadmin)
-- [wp-content](#wpcontent)
-- [wp-includes](#wpincludes)
+- [scripts](#scripts)
+- [pinterest](#proj1)
+- [dev-proj-2](#proj2)
+- [dev-proj-3](#proj3)
 
-## newsletter <a name = "newsletter"></a>
+## scripts <a name = "scripts"></a>
 
-contains code for the named subdomain.
-newsletter.safethishome.com
+contains individual scripts requiring placement.
 
-## wp-admin <a name = "wpadmin"></a>
+## pinterest <a name = "proj1"></a>
 
-currently just a placeholder.
-represents one of the three primary wp directories.
+templates for integrating STH products with pinterest.com/pinthishome.
 
-## wp-content <a name = "wpcontent"></a>
-
-make all changes, modifications, and customizations to the ashe-pro child theme.
-make sure tovalidate full functionality before pushing to production!
-
-## wp-includes <a name = "wpincludes"></a>
+## dev-proj-2 <a name = "proj2"></a>
 
 currently just a placeholder.
-represents one of the three primary wp directories.
+represents one of the three primary projects.
+
+## dev-proj-1udes <a name = "proj3"></a>
+
+currently just a placeholder.
+represents one of the three primary projects.
 
 ### root directory
 
-contains several relevant files that mirror the production root directory
+contains several relevant files
 
-DO NOT TOUCH:
-
-- index.php
-- robots.txt
-
-MODIFIABLE:
-
-- .webmanifest
-- 403.shtml
-- 404.shtml
-- browserconfig.xml
-
-REFERENCE:
-
-- wp-config-sample.php
+**DO NOT TOUCH!**
